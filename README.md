@@ -128,4 +128,42 @@ AIluminode does not own memory, crawl repositories, or persist context. It is de
 
 ---
 
+## Keywords
+
+```text
+AI orientation
+pre-retrieval orientation
+cognitive posture
+contextual routing
+route polarity
+retrieval discipline
+bounded retrieval
+drift reduction
+context governance
+terrain-aware systems
+memory routing
+active terrain
+blocked terrain
+protected routes
+deferred routes
+contextual airlocks
+operational continuity
+expected vs observed terrain
+lightweight instrumentation
+non-invasive AI tools
+wieldable AI tools
+```
+
+## Related NodAIity Tools
+
+AIluminode pairs naturally with OhBuoy:
+
+- **OhBuoy** handles operational and topological orientation.
+- **Compass** compares expected and observed propagation.
+- **AIluminode** handles pre-retrieval cognitive and route-posture orientation.
+
+Together they support orientation-first systems work without becoming telemetry, memory ownership, or autonomous orchestration.
+
+---
+
 ![NodAIity Logo](assets/NodAIity-logo.png)
