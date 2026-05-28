@@ -81,6 +81,21 @@ DEFER   = leave dormant unless explicitly reopened
 BLOCK   = keep closed for this task
 ```
 
+Route polarity is a corridor, not a blindfold.
+
+AIluminode is operationally blinkered but architecturally peripheral-aware: it narrows action to the declared corridor while still noticing side-door signals that may change the route.
+
+Blocked terrain prevents implementation drift. It does not erase architectural awareness.
+
+Stable corridors need lighter orientation overhead. Uncertain, dark, or stale terrain should trigger a fresh Compass and AIluminode check before retrieval or action.
+
+```text
+if terrain feels stale
+→ ping orientation again
+→ refresh route polarity
+→ act only inside the updated corridor
+```
+
 ## Doctrine
 
 Compass determines corridor truth.
@@ -104,6 +119,10 @@ illuminate
 orient
 release
 ```
+
+Side-door observations are allowed as evidence, not as permission to implement outside the active route.
+
+Dynamic re-orientation is part of the tool: when the map changes, scan again rather than stretching the old packet.
 
 ## Observed During Validation
 
