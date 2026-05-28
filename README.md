@@ -1,6 +1,6 @@
 # AIluminode
 
-AIluminode is a wieldable AI cognitive-orientation EEG instrument.
+AIluminode is a wieldable AI pre-retrieval cognitive-orientation instrument.
 
 It helps AI tools check contextual posture before acting.
 
@@ -11,6 +11,15 @@ prompt/task
 → cognitive posture trace
 → route polarity
 → next safe action
+```
+
+The core idea is posture before retrieval:
+
+```text
+orientation
+→ routing
+→ retrieval
+→ reasoning
 ```
 
 ## Use
@@ -95,3 +104,28 @@ illuminate
 orient
 release
 ```
+
+## Observed During Validation
+
+During multi-surface debugging and architecture work, AIluminode-style orientation reduced broad rereading and wrong-corridor exploration by establishing contextual posture before action.
+
+Observed benefits included:
+
+- faster orientation in layered projects
+- fewer accidental dives into unrelated terrain
+- clearer distinction between active, blocked, protected, and deferred routes
+- more surgical inspection of likely target areas
+- reduced context bleed during retrieval-heavy tasks
+
+The instrument is intentionally lightweight:
+
+```text
+prompt in
+→ orientation trace out
+```
+
+AIluminode does not own memory, crawl repositories, or persist context. It is designed as a wieldable pre-retrieval cognitive-orientation instrument.
+
+---
+
+![NodAIity Logo](assets/NodAIity-logo.png)
