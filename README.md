@@ -1,6 +1,6 @@
 # AIluminode
 
-AIluminode is a wieldable AI pre-retrieval cognitive-orientation instrument.
+AIluminode is a wieldable AI cognitive-orientation instrument.
 
 It helps AI tools check contextual posture before acting.
 
@@ -13,7 +13,7 @@ prompt/task
 → next safe action
 ```
 
-The core idea is posture before retrieval:
+The core idea is posture before action:
 
 ```text
 orientation
@@ -81,6 +81,19 @@ DEFER   = leave dormant unless explicitly reopened
 BLOCK   = keep closed for this task
 ```
 
+Public identity:
+
+```text
+AIluminode = cognitive orientation instrument
+EEG        = internal scan mode
+```
+
+Instrument question:
+
+```text
+AIluminode -> How should I proceed?
+```
+
 Route polarity is a corridor, not a blindfold.
 
 AIluminode is operationally blinkered but architecturally peripheral-aware: it narrows action to the declared corridor while still noticing side-door signals that may change the route.
@@ -101,6 +114,25 @@ if terrain feels stale
 Compass determines corridor truth.
 
 AIluminode determines cognitive and retrieval posture.
+
+Glass Stack doctrine:
+
+```text
+No pane owns the terrain.
+No pane owns another pane.
+Use the smallest set of panes needed before action.
+```
+
+Unknown terrain:
+
+```text
+unknownTerrain
+-> route not registered
+-> position uncertain
+-> bearing unavailable
+-> stop propagation
+-> report state
+```
 
 AIluminode does not:
 
@@ -143,7 +175,7 @@ prompt in
 → orientation trace out
 ```
 
-AIluminode does not own memory, crawl repositories, or persist context. It is designed as a wieldable pre-retrieval cognitive-orientation instrument.
+AIluminode does not own memory, crawl repositories, or persist context. It is designed as a wieldable posture-before-action cognitive-orientation instrument.
 
 ---
 
@@ -151,7 +183,8 @@ AIluminode does not own memory, crawl repositories, or persist context. It is de
 
 ```text
 AI orientation
-pre-retrieval orientation
+cognitive orientation
+posture-before-action
 cognitive posture
 contextual routing
 route polarity
@@ -179,7 +212,7 @@ AIluminode pairs naturally with OhBuoy:
 
 - **OhBuoy** handles operational and topological orientation.
 - **Compass** compares expected and observed propagation.
-- **AIluminode** handles pre-retrieval cognitive and route-posture orientation.
+- **AIluminode** handles cognitive and route-posture orientation before action.
 
 Together they support orientation-first systems work without becoming telemetry, memory ownership, or autonomous orchestration.
 
