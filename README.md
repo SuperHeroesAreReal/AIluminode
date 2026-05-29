@@ -115,6 +115,29 @@ Compass determines corridor truth.
 
 AIluminode determines cognitive and retrieval posture.
 
+Branch A currently places AIluminode after stance, Compass, and Plotter:
+
+```text
+Prompt
+→ Stance
+→ Compass
+→ Plotter
+→ AIluminode
+→ Retrieval
+→ Reasoning
+→ Response
+```
+
+In Branch A:
+
+```text
+Compass = bearing = Which way should I face?
+Plotter = position = Where am I?
+AIluminode = orientation packet / posture scan = How should I proceed?
+```
+
+Branch A is independently valuable and does not require Context, Branch B, or KL.
+
 Glass Stack doctrine:
 
 ```text
