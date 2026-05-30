@@ -6,6 +6,12 @@ It helps AI tools check contextual posture before acting.
 
 It uses NodAIity doctrine, but this repo is standalone.
 
+Core question:
+
+```text
+How should I proceed?
+```
+
 ```text
 prompt/task
 → cognitive posture trace
@@ -231,13 +237,19 @@ wieldable AI tools
 
 ## Related NodAIity Tools
 
-AIluminode pairs naturally with OhBuoy:
+AIluminode is part of the broader NodAIity orientation toolkit. It functions independently and can also be used alongside other orientation instruments.
 
-- **OhBuoy** handles operational and topological orientation.
-- **Compass** compares expected and observed propagation.
-- **AIluminode** handles cognitive and route-posture orientation before action.
+Toolkit questions:
 
-Together they support orientation-first systems work without becoming telemetry, memory ownership, or autonomous orchestration.
+```text
+OhBuoy     -> Is the route alive?
+RECCE      -> What is actually out there?
+Compass    -> Which way should I face?
+Plotter    -> Where am I?
+AIluminode -> How should I proceed?
+```
+
+The toolkit shows how the instruments relate; it does not create a shared runtime, mandatory stack, or ownership chain.
 
 ---
 
