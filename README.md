@@ -218,6 +218,26 @@ prompt in
 
 AIluminode does not own memory, crawl repositories, or persist context. It is designed as a wieldable posture-before-action orientation instrument.
 
+Evidence status:
+
+```text
+Paula Packet 10
+→ CPO gate changed behavior before retrieval
+
+Orientation Testbed Round 1
+→ planned behavior-change benchmark
+
+Orientation Testbed Round 2
+→ future paired work-saved benchmark
+```
+
+Current caveat:
+
+```text
+Current results demonstrate behavior change before retrieval and early work-reduction signals.
+They do not yet support broad drift-reduction claims.
+```
+
 ---
 
 ## Keywords
