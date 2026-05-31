@@ -84,7 +84,7 @@ def render(report: EegReport) -> str:
 
 def _detect_terrain(prompt: str) -> list[str]:
     terrain: list[str] = []
-    if _contains_any(prompt, "paula", "memory", "sqlite", "vector", "chroma", "logs"):
+    if _contains_any(prompt, "paula", "paula memory", "sqlite", "chroma"):
         terrain.append("paula_memory_pipeline")
     if _contains_any(prompt, "topography", "terrain", "switchbox", "airlock", "orientation"):
         terrain.append("contextual_topography")

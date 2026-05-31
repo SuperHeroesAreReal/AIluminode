@@ -27,7 +27,7 @@ def main(argv: list[str] | None = None) -> int:
 
 
 def print_usage() -> None:
-    print("AIluminode - wieldable AI pre-retrieval cognitive-orientation instrument")
+    print("AIluminode - wieldable AI posture-before-action orientation instrument")
     print()
     print('Usage: ailuminode scan "<prompt>"')
     print()

@@ -1,6 +1,6 @@
 # AIluminode
 
-AIluminode is a wieldable AI cognitive-orientation instrument.
+AIluminode is a wieldable AI pre-reasoning orientation instrument.
 
 It helps AI tools check contextual posture before acting.
 
@@ -19,7 +19,7 @@ prompt/task
 → next safe action
 ```
 
-The core idea is posture before action:
+The core idea is posture before action. AIluminode orients the route; it does not perform retrieval or reasoning.
 
 ```text
 orientation
@@ -90,7 +90,7 @@ BLOCK   = keep closed for this task
 Public identity:
 
 ```text
-AIluminode = cognitive orientation instrument
+AIluminode = posture-before-action orientation instrument
 EEG        = internal scan mode
 ```
 
@@ -106,7 +106,7 @@ AIluminode is operationally blinkered but architecturally peripheral-aware: it n
 
 Blocked terrain prevents implementation drift. It does not erase architectural awareness.
 
-Stable corridors need lighter orientation overhead. Uncertain, dark, or stale terrain should trigger a fresh Compass and AIluminode check before retrieval or action.
+Stable corridors need lighter orientation overhead. Uncertain, dark, or stale terrain should trigger a fresh Compass and AIluminode check before action.
 
 ```text
 if terrain feels stale
@@ -119,7 +119,7 @@ if terrain feels stale
 
 Compass determines corridor truth.
 
-AIluminode determines cognitive and retrieval posture.
+AIluminode determines posture before action.
 
 Branch A currently places AIluminode after stance, Compass, and Plotter:
 
@@ -139,7 +139,7 @@ In Branch A:
 ```text
 Compass = bearing = Which way should I face?
 Plotter = position = Where am I?
-AIluminode = orientation packet / posture scan = How should I proceed?
+AIluminode = posture instrument = How should I proceed?
 ```
 
 Branch A is independently valuable and does not require Context, Branch B, or KL.
@@ -204,7 +204,7 @@ prompt in
 → orientation trace out
 ```
 
-AIluminode does not own memory, crawl repositories, or persist context. It is designed as a wieldable posture-before-action cognitive-orientation instrument.
+AIluminode does not own memory, crawl repositories, or persist context. It is designed as a wieldable posture-before-action orientation instrument.
 
 ---
 
@@ -217,12 +217,11 @@ posture-before-action
 cognitive posture
 contextual routing
 route polarity
-retrieval discipline
-bounded retrieval
+route discipline
+bounded action
 drift reduction
 context governance
 terrain-aware systems
-memory routing
 active terrain
 blocked terrain
 protected routes

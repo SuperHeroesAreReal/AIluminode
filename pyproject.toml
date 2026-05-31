@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "ailuminode"
 version = "0.1.0"
-description = "A lightweight pre-retrieval cognitive-orientation instrument for AI tools."
+description = "A lightweight posture-before-action orientation instrument for AI tools."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []
