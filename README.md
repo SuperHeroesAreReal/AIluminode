@@ -152,6 +152,18 @@ No pane owns another pane.
 Use the smallest set of panes needed before action.
 ```
 
+Glass Stack behavior means the toolkit is not a pipeline. The instruments are independent orientation panes:
+
+```text
+AIluminode -> posture
+Compass    -> bearing
+Plotter    -> position
+RECCE      -> verification
+OhBuoy     -> continuity
+```
+
+Use the pane that answers the current orientation question, then release it.
+
 Unknown terrain:
 
 ```text
