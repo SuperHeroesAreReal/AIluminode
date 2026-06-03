@@ -28,6 +28,31 @@ orientation
 → reasoning
 ```
 
+## Orientation Before Retrieval
+
+AIluminode is part of the broader NodAIity orientation research effort.
+
+Current NodAIity doctrine explores the idea that many AI failures may occur before retrieval rather than during reasoning.
+
+Orientation does not replace retrieval or reasoning.
+
+Orientation helps determine:
+
+- where the system is
+- which direction it should face
+- which terrain is active
+- which routes should remain closed
+
+Core doctrine:
+
+```text
+Don't reason harder.
+Orient first.
+
+Don't run faster.
+Follow the compass.
+```
+
 ## Use
 
 Install locally:
@@ -118,6 +143,10 @@ if terrain feels stale
 ## Doctrine
 
 Compass determines corridor truth.
+
+The terrain directs Compass like a magnet.
+
+Compass does not choose direction. Compass reveals directional pressure already present in the terrain.
 
 AIluminode determines posture before action.
 
@@ -245,7 +274,10 @@ They do not yet support broad drift-reduction claims.
 ```text
 AI orientation
 cognitive orientation
+orientation before retrieval
+pre-retrieval orientation
 posture-before-action
+pre-reasoning orientation
 cognitive posture
 contextual routing
 route polarity
@@ -253,6 +285,13 @@ route discipline
 bounded action
 drift reduction
 context governance
+context engineering
+context drift
+contextual orientation
+AI navigation
+retrieval governance
+retrieval pressure
+memory weighting
 terrain-aware systems
 active terrain
 blocked terrain
