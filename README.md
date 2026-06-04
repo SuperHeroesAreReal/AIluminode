@@ -273,6 +273,10 @@ They do not yet support broad drift-reduction claims.
 
 ```text
 AI orientation
+AI orientation toolkit
+search and rescue
+S+R
+developer tools
 cognitive orientation
 orientation before retrieval
 pre-retrieval orientation
@@ -311,7 +315,7 @@ AIluminode is an independently deployable posture instrument and a pane in **Sea
 
 S+R combines independently wieldable orientation panes without turning them into a fixed pipeline or shared runtime. Use AIluminode alone when the question is posture before action; use the smallest useful Glass Stack when the terrain needs more illumination.
 
-Explore the current [S+R release and benchmark evidence](https://github.com/SuperHeroesAreReal/ohbuoy/tree/dev/docs).
+Explore the full [Search and Rescue (S+R) toolkit](https://github.com/SuperHeroesAreReal/Search-and-Rescue).
 
 Toolkit questions:
 
