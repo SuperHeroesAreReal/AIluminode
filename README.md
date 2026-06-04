@@ -307,7 +307,11 @@ wieldable AI tools
 
 ## Related NodAIity Tools
 
-AIluminode is part of the broader NodAIity orientation toolkit. It functions independently and can also be used alongside other orientation instruments.
+AIluminode is an independently deployable posture instrument and a pane in **Search and Rescue (S+R)**, the full NodAIity orientation toolkit.
+
+S+R combines independently wieldable orientation panes without turning them into a fixed pipeline or shared runtime. Use AIluminode alone when the question is posture before action; use the smallest useful Glass Stack when the terrain needs more illumination.
+
+Explore the current [S+R release and benchmark evidence](https://github.com/SuperHeroesAreReal/ohbuoy/tree/dev/docs).
 
 Toolkit questions:
 
