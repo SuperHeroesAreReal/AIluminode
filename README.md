@@ -28,6 +28,31 @@ orientation
 → reasoning
 ```
 
+## S+R Rule: Orientation Before Action
+
+When starting a new chat, session, or model window, resuming after compaction or a rate-limit interruption, or receiving a new packet, run an orientation scan before reasoning or implementation.
+
+Do not assume prior state.
+
+Use AIluminode to establish posture, active terrain, route polarity, drift risk, and the next safe action. When the full S+R toolkit is available, prefer its full orientation entry point for complete position, continuity, reconnaissance, and posture coverage.
+
+AIluminode does not replace:
+
+- owning authority
+- active packet scope
+- implementation review
+- human governance
+
+If the trace reports drift, or marks a route `PROTECT`, `DEFER`, or `AUDIT`, pause and report that state before acting. Do not convert orientation into authority.
+
+If unexpected pressure, side-corridor evidence, drift, bleed, or a howler appears during execution, scan again before continuing.
+
+Orientation is not optional. It is the gate before reasoning and implementation.
+
+```text
+Don't remember. Re-orient.
+```
+
 ## Orientation Before Retrieval
 
 AIluminode is part of the broader NodAIity orientation research effort.
